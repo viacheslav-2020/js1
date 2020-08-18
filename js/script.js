@@ -8,7 +8,7 @@ console.log(a);
 //const res1 = prompt("Are you?", "18");
 //document.write(res1);
 
-const res = 'good';
+const res = 'good1';
 
 res2 = prompt(`http://googlw.com/${res}`);
 
